@@ -1,196 +1,334 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090A1A,35:171C43,70:5145CD,100:00D4FF&text=HRUTHIK%20K%20TARAVI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=MOBILE%20APP%20DEVELOPER%20%7C%20FLUTTER%20ENGINEER&descSize=14&descAlignY=58&animation=fadeIn&stroke=00D4FF&strokeWidth=1" width="100%" alt="Animated profile header"/>
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&height=55&lines=Building+Apps+That+Feel+Like+Magic+%E2%9C%A8;Flutter+%7C+Dart+%7C+Mobile+Engineering;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80;Code.+Build.+Ship.+Repeat." alt="Animated typing introduction"/>
+# H R U T H I K &nbsp; K &nbsp; T A R A V I
+
+### Mobile App Developer · Flutter Engineer
+
+Building useful apps. Solving real problems. One commit at a time.
 
 <br/>
-
-<a href="https://github.com/Hruthik2005">
-<img src="https://komarev.com/ghpvc/?username=hruthik2005&style=for-the-badge&color=5145CD&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<img src="https://img.shields.io/badge/FOCUS-Mobile%20Development-00D4FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile development"/>
-<img src="https://img.shields.io/badge/STATUS-Building%20Cool%20Things-171C43?style=for-the-badge&logo=rocket&logoColor=white" alt="Building cool things"/>
-
-<br/><br/>
-
-<a href="https://caarvn.com"><img src="https://img.shields.io/badge/🚀_Explore_Caarvn-5145CD?style=for-the-badge" alt="Explore Caarvn"/></a>
-<a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:hruthik2005taravi@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
-
----
-
-## ⚡ About Me
-
-```yaml
-name: Hruthik K Taravi
-role: Mobile App Developer
-education: B.E. Computer Science Engineering
-college: Vidyavardhaka College of Engineering, Mysuru
-cgpa: 9.18
-primary_stack: Flutter + Dart
-currently_building: Mobile applications that solve real-world problems
-interests:
-  - Mobile App Development
-  - Backend Engineering
-  - Cloud Technologies
-  - Product Development
-mindset: Build something useful. Make it beautiful. Keep improving.
-```
-
-- 📱 I build mobile applications using **Flutter and Dart**.
-- 🚀 I enjoy turning ideas into useful, user-friendly digital products.
-- 🛠️ I work with backend APIs, databases, and cloud infrastructure.
-- 🏆 Smart India Hackathon finalist and hackathon winner.
-- 🌱 Always learning, experimenting, and building something new.
-
----
-
-## 🛸 Tech Universe
-
-<div align="center">
-
-### 📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" alt="Mobile development skills"/>
-
-### ⚙️ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" alt="Backend and database skills"/>
-
-### ☁️ Cloud & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,figma,vscode&theme=dark" alt="Cloud and developer tools"/>
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" alt="Programming languages"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
 
 <a href="https://caarvn.com">
-<img src="https://img.shields.io/badge/CAARVN-LIVE%20PROJECT-00D4FF?style=for-the-badge&logo=googleplay&logoColor=white" alt="Caarvn"/>
+<img src="https://img.shields.io/badge/EXPLORE-CAARVN-111111?style=for-the-badge" alt="Explore Caarvn"/>
 </a>
-
-### 🚘 Caarvn — Shared Rides. Smarter Cities.
-
-A mobile carpooling platform designed to make shared travel more convenient.
-
-| Feature | Description |
-|---|---|
-| 📍 Ride Discovery | Find and explore available rides |
-| 🔐 Verification | User identity and driving-document verification |
-| 🛡️ Safety | Safety-focused features and incident reporting |
-| ⚡ Backend | REST APIs built with Node.js and Express.js |
-| 🗄️ Database | PostgreSQL |
-| ☁️ Infrastructure | AWS EC2, Nginx, HTTPS and PM2 |
-
-<a href="https://play.google.com/store/apps/details?id=com.caarvn.mobile"><img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download on Google Play"/></a>
-<a href="https://caarvn.com"><img src="https://img.shields.io/badge/Website-Visit-5145CD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"/>
+</a>
 
 <br/><br/>
 
-</div>
-
-### 🌱 EcoSync — Carbon Credit Management
-
-A mobile-focused solution for carbon-credit lifecycle management and environmental monitoring.
-
-- 🌍 Carbon-credit registry and lifecycle management.
-- 📊 Emissions monitoring and analytics.
-- 🔗 Blockchain-oriented carbon-credit tracking.
-- 🛠️ Built as a solution for a Smart India Hackathon problem statement.
-
-### ✍️ En-HanZ — Handwriting Assistance
-
-A mobile application concept focused on supporting people who experience difficulties with handwriting.
-
-- 📱 Flutter-based mobile application.
-- ✍️ Handwriting assistance and dysgraphia screening support.
-- 🎯 Designed to support early identification of potential writing difficulties, not to provide a clinical diagnosis.
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Smart_India_Hackathon-2025%20Finalist-FFB800?style=for-the-badge&logo=target&logoColor=black" alt="Smart India Hackathon finalist"/>
-
-<img src="https://img.shields.io/badge/Horcrux_Hackathon-Winner-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Horcrux Hackathon winner"/>
-
-<img src="https://img.shields.io/badge/Infothon%20%26%20Ideathon-Participant-00D4FF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Infothon and Ideathon participant"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4F3F0&height=2&section=header" width="100%" alt="Section divider"/>
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hruthik2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090A1A&title_color=00D4FF&icon_color=5145CD&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthik2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=090A1A&title_color=00D4FF&text_color=FFFFFF" alt="Most-used programming languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Hruthik2005&theme=tokyonight&hide_border=true&background=090A1A&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub contribution streak"/>
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+# Apps that make<br/>everyday life easier.
+
+I'm a Computer Science Engineering student passionate about building **mobile applications that solve real-world problems**.
+
+My work spans Flutter development, backend APIs, databases, and cloud infrastructure. I enjoy taking an idea from a rough concept to a working product that people can actually use.
+
+Currently focused on building better mobile experiences and improving my engineering skills.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hruthik2005&bg_color=090A1A&color=00D4FF&line=5145CD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+**9.18 CGPA** &nbsp; · &nbsp; **B.E. Computer Science** &nbsp; · &nbsp; **Mysuru, India**
+
+</td>
+<td width="42%" valign="middle">
+
+<img src="assets/caarvn-app.png" width="100%" alt="Caarvn mobile application interface"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## INTRODUCING MY FLAGSHIP PROJECT
+
+# CAARVN
+
+### Shared rides. Smarter cities.
+
+A carpooling platform designed to make daily commutes more affordable, convenient, and sustainable.
+
+<br/>
+
+<a href="https://caarvn.com">
+<img src="assets/caarvn-website.png" width="100%" alt="Caarvn website and mobile application showcase"/>
+</a>
+
+<br/><br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.caarvn.mobile">
+<img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-111111?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Caarvn on Google Play"/>
+</a>
+&nbsp;
+<a href="https://caarvn.com">
+<img src="https://img.shields.io/badge/VISIT-WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Visit Caarvn website"/>
+</a>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### DISCOVER
+
+Find available rides and explore travel options.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### CONNECT
+
+Create rides and coordinate shared journeys.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### SAFETY
+
+Identity verification and safety-focused features.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### ENGINEERING
+
+Mobile application, REST APIs, database, and cloud infrastructure.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Technology behind Caarvn**
+
+`Flutter` &nbsp; `Dart` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `PostgreSQL` &nbsp; `AWS EC2` &nbsp; `Nginx`
+
+---
+
+## WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / MOBILE DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=light" alt="Flutter, Dart and Firebase"/>
+
+Creating cross-platform mobile applications with an emphasis on usability, functionality, and clean interfaces.
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=light" alt="Backend and database technologies"/>
+
+Building REST APIs, working with relational databases, and connecting mobile applications to backend services.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / CLOUD & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx&theme=light" alt="Cloud and infrastructure technologies"/>
+
+Exploring deployment, server configuration, HTTPS, and the infrastructure required to run applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / PRODUCT & UI
+
+<img src="https://skillicons.dev/icons?i=figma,git,github&theme=light" alt="Design and development tools"/>
+
+Turning ideas into intuitive interfaces, iterating on user experience, and collaborating through version control.
+
+</td>
+</tr>
+</table>
+
+---
+
+## OTHER PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### EcoSync
+
+**Carbon Credit Management**
+
+A project focused on carbon-credit tracking, environmental monitoring, and lifecycle management.
+
+- Carbon-credit registry concepts.
+- Emissions monitoring and analytics.
+- Blockchain-oriented transparency.
+
+</td>
+<td width="50%" valign="top">
+
+### En-HanZ
+
+**Handwriting Assistance**
+
+A mobile application designed to support users who experience handwriting difficulties.
+
+- Handwriting assistance.
+- Dysgraphia screening support.
+- Focus on accessible user experiences.
+
+</td>
+</tr>
+</table>
+
+---
+
+## RECOGNITION
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+### SIH 2025
+
+**Finalist**
+
+Smart India Hackathon
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### HORCRUX
+
+**Winner**
+
+PES University Hackathon
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### INFOTHON
+
+**Participant**
+
+Infothon & Ideathon
+
+</td>
+</tr>
+</table>
+
+---
+
+## THE TOOLKIT
+
+<div align="center">
+
+**MOBILE**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=light" alt="Mobile development toolkit"/>
+
+<br/><br/>
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=light" alt="Backend and databases toolkit"/>
+
+<br/><br/>
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,c,python&theme=light" alt="Programming languages"/>
+
+<br/><br/>
+
+**TOOLS & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,figma,vscode&theme=light" alt="Tools and infrastructure"/>
 
 </div>
 
 ---
 
-## 🧠 My Developer Philosophy
+## A LITTLE ABOUT ME
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `Think → Build → Test → Improve → Ship 🚀`
+**EDUCATION**
 
-*Great apps aren't just coded. They're crafted around real people and real problems.*
+B.E. Computer Science Engineering
 
-</div>
+Vidyavardhaka College of Engineering, Mysuru
+
+CGPA: 9.18
+
+</td>
+<td width="50%" valign="top">
+
+**CURRENT INTERESTS**
+
+- Flutter and mobile engineering
+- Backend development
+- Data structures and algorithms
+- Cloud deployment
+- Building useful products
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Find Me Around the Internet
-
 <div align="center">
 
-<a href="https://github.com/Hruthik2005">
-<img src="https://img.shields.io/badge/GitHub-Hruthik2005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+## HAVE AN IDEA? LET'S BUILD IT.
 
-<a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288">
-<img src="https://img.shields.io/badge/LinkedIn-Hruthik%20K%20Taravi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+I'm interested in mobile development, meaningful products, and opportunities to grow as a software engineer.
+
+<br/>
 
 <a href="mailto:hruthik2005taravi@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL_ME-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
-
-<a href="https://caarvn.com">
-<img src="https://img.shields.io/badge/Website-Caarvn-5145CD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Caarvn"/>
+&nbsp;
+<a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288">
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="Connect on LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Hruthik2005">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
 <br/><br/>
 
-**⭐ If you like what I build, explore my repositories and say hello!**
+<sub>Designed with purpose. Built with curiosity. Powered by coffee and commits.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D4FF,50:5145CD,100:090A1A" width="100%" alt="Animated footer"/>
+<br/><br/>
 
 </div>
