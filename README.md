@@ -1,65 +1,81 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F4F0&height=8" width="100%" alt=""/>
+
 <br/>
 
 # H R U T H I K &nbsp; K &nbsp; T A R A V I
 
-### Mobile App Developer · Flutter Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=24&duration=1800&pause=600&color=75B82A&center=true&vCenter=true&width=750&height=50&lines=Mobile+App+Developer;Flutter+%26+Dart+Engineer;Building+Apps+That+Solve+Real+Problems;From+Ideas+to+Real+Products" alt="Animated developer introduction"/>
 
-Building useful apps. Solving real problems. One commit at a time.
+**Building useful apps. Solving real problems. One commit at a time.**
 
 <br/>
 
 <a href="https://caarvn.com">
-<img src="https://img.shields.io/badge/EXPLORE-CAARVN-111111?style=for-the-badge" alt="Explore Caarvn"/>
+<img src="https://img.shields.io/badge/EXPLORE_CAARVN-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Caarvn"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:hruthik2005taravi@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-75B82A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F4F3F0&height=2&section=header" width="100%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B7E56B&height=3" width="100%" alt=""/>
 
 </div>
 
 <br/>
 
+## THE DEVELOPER
+
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="55%" valign="middle">
 
-# Apps that make<br/>everyday life easier.
+# I build apps.<br/>I solve problems.<br/>I ship products.
 
-I'm a Computer Science Engineering student passionate about building **mobile applications that solve real-world problems**.
+I'm a mobile application developer passionate about creating useful, intuitive digital experiences.
 
-My work spans Flutter development, backend APIs, databases, and cloud infrastructure. I enjoy taking an idea from a rough concept to a working product that people can actually use.
+My work combines **Flutter mobile development, backend engineering, database integration, and cloud infrastructure**.
 
-Currently focused on building better mobile experiences and improving my engineering skills.
+I enjoy taking ideas from concept to implementation, refining the user experience, and building applications for real-world use.
+
+**Currently focused on:** Mobile engineering, Flutter, and building better products.
 
 <br/>
 
-**9.18 CGPA** &nbsp; · &nbsp; **B.E. Computer Science** &nbsp; · &nbsp; **Mysuru, India**
+`BUILD` &nbsp; → &nbsp; `TEST` &nbsp; → &nbsp; `IMPROVE` &nbsp; → &nbsp; `SHIP`
 
 </td>
-<td width="42%" valign="middle">
+<td width="45%" valign="middle">
 
-<img src="assets/caarvn-app.png" width="100%" alt="Caarvn mobile application interface"/>
+<img src="assets/caarvn-hero.png" width="100%" alt="Caarvn carpooling application with floating smartphone mockups and ride discovery screens"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=17&duration=2200&pause=700&color=75B82A&center=true&vCenter=true&width=700&height=35&lines=DESIGN+WITH+PURPOSE;CODE+WITH+INTENTION;BUILD+FOR+REAL+PEOPLE;MAKE+EVERY+PIXEL+COUNT" alt="Animated coding philosophy"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## INTRODUCING MY FLAGSHIP PROJECT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F4F0&height=4" width="100%" alt=""/>
 
-# CAARVN
+<br/>
+
+## MY FLAGSHIP PROJECT
+
+# C A A R V N
 
 ### Shared rides. Smarter cities.
 
@@ -68,61 +84,71 @@ A carpooling platform designed to make daily commutes more affordable, convenien
 <br/>
 
 <a href="https://caarvn.com">
-<img src="assets/caarvn-website.png" width="100%" alt="Caarvn website and mobile application showcase"/>
+<img src="assets/caarvn-hero.png" width="100%" alt="Caarvn mobile application and ridesharing platform"/>
 </a>
 
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.caarvn.mobile">
-<img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-111111?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Caarvn on Google Play"/>
+<img src="https://img.shields.io/badge/GET_IT_ON-GOOGLE_PLAY-111111?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Caarvn on Google Play"/>
 </a>
 &nbsp;
 <a href="https://caarvn.com">
-<img src="https://img.shields.io/badge/VISIT-WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Visit Caarvn website"/>
+<img src="https://img.shields.io/badge/VISIT_CAARVN.COM-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Visit Caarvn website"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+</div>
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
 
-### DISCOVER
+### 01
 
-Find available rides and explore travel options.
+**RIDE DISCOVERY**
 
-</td>
-<td width="25%" align="center" valign="top">
-
-### CONNECT
-
-Create rides and coordinate shared journeys.
+Explore available rides and travel options.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-### SAFETY
+### 02
 
-Identity verification and safety-focused features.
+**RIDE MANAGEMENT**
+
+Create rides, search, and coordinate shared journeys.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-### ENGINEERING
+### 03
 
-Mobile application, REST APIs, database, and cloud infrastructure.
+**SAFETY**
+
+Verification and safety-focused features.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 04
+
+**INFRASTRUCTURE**
+
+Mobile application, APIs, database, and cloud deployment.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-**Technology behind Caarvn**
+**BUILT WITH**
 
-`Flutter` &nbsp; `Dart` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `PostgreSQL` &nbsp; `AWS EC2` &nbsp; `Nginx`
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,postgres,aws,nginx&theme=light" alt="Caarvn technology stack"/>
+
+</div>
 
 ---
 
@@ -132,40 +158,40 @@ Mobile application, REST APIs, database, and cloud infrastructure.
 <tr>
 <td width="50%" valign="top">
 
-### 01 / MOBILE DEVELOPMENT
+### 01 / Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=light" alt="Flutter, Dart and Firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=light" alt="Mobile development tools"/>
 
-Creating cross-platform mobile applications with an emphasis on usability, functionality, and clean interfaces.
+Building cross-platform mobile applications with Flutter and Dart, with an emphasis on usability and clean interfaces.
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / BACKEND ENGINEERING
+### 02 / Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=light" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=light" alt="Backend technologies"/>
 
-Building REST APIs, working with relational databases, and connecting mobile applications to backend services.
+Developing REST APIs, integrating databases, and connecting mobile interfaces to backend services.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / CLOUD & INFRASTRUCTURE
+### 03 / Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx&theme=light" alt="Cloud and infrastructure technologies"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx&theme=light" alt="Cloud and infrastructure tools"/>
 
-Exploring deployment, server configuration, HTTPS, and the infrastructure required to run applications.
+Working with application deployment, server configuration, HTTPS, and cloud infrastructure.
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / PRODUCT & UI
+### 04 / Development Workflow
 
-<img src="https://skillicons.dev/icons?i=figma,git,github&theme=light" alt="Design and development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=light" alt="Development workflow tools"/>
 
-Turning ideas into intuitive interfaces, iterating on user experience, and collaborating through version control.
+Prototyping, version control, interface refinement, and continuous improvement.
 
 </td>
 </tr>
@@ -173,17 +199,19 @@ Turning ideas into intuitive interfaces, iterating on user experience, and colla
 
 ---
 
-## OTHER PROJECTS
+## MORE THINGS I'VE BUILT
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/PROJECT_01-ENVIRONMENT-75B82A?style=flat-square" alt="Environment project"/>
+
 ### EcoSync
 
 **Carbon Credit Management**
 
-A project focused on carbon-credit tracking, environmental monitoring, and lifecycle management.
+A project focused on carbon-credit management and environmental monitoring.
 
 - Carbon-credit registry concepts.
 - Emissions monitoring and analytics.
@@ -192,15 +220,17 @@ A project focused on carbon-credit tracking, environmental monitoring, and lifec
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/PROJECT_02-ACCESSIBILITY-111111?style=flat-square" alt="Accessibility project"/>
+
 ### En-HanZ
 
 **Handwriting Assistance**
 
-A mobile application designed to support users who experience handwriting difficulties.
+A mobile application focused on supporting users who experience handwriting difficulties.
 
 - Handwriting assistance.
 - Dysgraphia screening support.
-- Focus on accessible user experiences.
+- Accessibility-focused user experience.
 
 </td>
 </tr>
@@ -208,33 +238,33 @@ A mobile application designed to support users who experience handwriting diffic
 
 ---
 
-## RECOGNITION
+## MILESTONES
 
 <table>
 <tr>
-<td align="center" width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### SIH 2025
+<img src="https://img.shields.io/badge/SIH-2025-111111?style=for-the-badge" alt="SIH 2025"/>
 
-**Finalist**
+### Finalist
 
-Smart India Hackathon
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### HORCRUX
-
-**Winner**
-
-PES University Hackathon
+Smart India Hackathon 2025
 
 </td>
-<td align="center" width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### INFOTHON
+<img src="https://img.shields.io/badge/HORCRUX-75B82A?style=for-the-badge" alt="Horcrux Hackathon"/>
 
-**Participant**
+### Winner
+
+Horcrux Hackathon, PES University
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/INFOTHON-111111?style=for-the-badge" alt="Infothon"/>
+
+### Participant
 
 Infothon & Ideathon
 
@@ -244,91 +274,64 @@ Infothon & Ideathon
 
 ---
 
-## THE TOOLKIT
+## MY TOOLKIT
 
 <div align="center">
 
-**MOBILE**
+**MOBILE DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=light" alt="Mobile development toolkit"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=light" alt="Flutter and mobile tools"/>
 
 <br/><br/>
 
 **BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=light" alt="Backend and databases toolkit"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=light" alt="Backend and database tools"/>
 
 <br/><br/>
 
-**LANGUAGES**
+**PROGRAMMING LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=java,c,python&theme=light" alt="Programming languages"/>
 
 <br/><br/>
 
-**TOOLS & INFRASTRUCTURE**
+**CLOUD & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,figma,vscode&theme=light" alt="Tools and infrastructure"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,figma,vscode&theme=light" alt="Cloud and developer tools"/>
 
 </div>
 
 ---
 
-## A LITTLE ABOUT ME
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**EDUCATION**
-
-B.E. Computer Science Engineering
-
-Vidyavardhaka College of Engineering, Mysuru
-
-CGPA: 9.18
-
-</td>
-<td width="50%" valign="top">
-
-**CURRENT INTERESTS**
-
-- Flutter and mobile engineering
-- Backend development
-- Data structures and algorithms
-- Cloud deployment
-- Building useful products
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-## HAVE AN IDEA? LET'S BUILD IT.
-
-I'm interested in mobile development, meaningful products, and opportunities to grow as a software engineer.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B7E56B&height=3" width="100%" alt=""/>
 
 <br/>
 
+# LET'S BUILD SOMETHING USEFUL.
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=2000&pause=600&color=75B82A&center=true&vCenter=true&width=650&height=40&lines=Have+an+interesting+idea%3F;Let's+turn+it+into+an+app.;Always+learning.+Always+building." alt="Animated closing message"/>
+
+<br/><br/>
+
 <a href="mailto:hruthik2005taravi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288">
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="https://github.com/Hruthik2005">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<sub>Designed with purpose. Built with curiosity. Powered by coffee and commits.</sub>
+<sub>Built with curiosity. Designed with purpose. Powered by commits.</sub>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7E56B,45:F5F4F0,100:F5F4F0&height=100&section=footer" width="100%" alt=""/>
 
 </div>
