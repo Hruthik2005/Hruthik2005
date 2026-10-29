@@ -15,9 +15,11 @@
 <a href="https://caarvn.com">
 <img src="https://img.shields.io/badge/EXPLORE_CAARVN-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Caarvn"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288">
 <img src="https://img.shields.io/badge/LET'S_CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="Connect on LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:hruthik2005taravi@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT-75B82A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
 </a>
@@ -30,11 +32,11 @@
 
 <br/>
 
-## THE DEVELOPER
-
 <table>
 <tr>
 <td width="55%" valign="middle">
+
+## THE DEVELOPER
 
 # I build apps.<br/>I solve problems.<br/>I ship products.
 
@@ -44,8 +46,6 @@ My work combines **Flutter mobile development, backend engineering, database int
 
 I enjoy taking ideas from concept to implementation, refining the user experience, and building applications for real-world use.
 
-**Currently focused on:** Mobile engineering, Flutter, and building better products.
-
 <br/>
 
 `BUILD` &nbsp; → &nbsp; `TEST` &nbsp; → &nbsp; `IMPROVE` &nbsp; → &nbsp; `SHIP`
@@ -53,7 +53,7 @@ I enjoy taking ideas from concept to implementation, refining the user experienc
 </td>
 <td width="45%" valign="middle">
 
-<img src="assets/caarvn-hero.png" width="100%" alt="Caarvn carpooling application with floating smartphone mockups and ride discovery screens"/>
+<img src="wide_clean_promotional_ui_ux_hero_scene_in_a_minim.png" width="100%" alt="Caarvn carpooling application featuring two mobile phone mockups"/>
 
 </td>
 </tr>
@@ -69,10 +69,6 @@ I enjoy taking ideas from concept to implementation, refining the user experienc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F4F0&height=4" width="100%" alt=""/>
-
-<br/>
-
 ## MY FLAGSHIP PROJECT
 
 # C A A R V N
@@ -84,7 +80,7 @@ A carpooling platform designed to make daily commutes more affordable, convenien
 <br/>
 
 <a href="https://caarvn.com">
-<img src="assets/caarvn-hero.png" width="100%" alt="Caarvn mobile application and ridesharing platform"/>
+<img src="wide_clean_promotional_ui_ux_hero_scene_in_a_minim.png" width="100%" alt="Caarvn mobile application and ridesharing platform"/>
 </a>
 
 <br/><br/>
@@ -253,7 +249,7 @@ Smart India Hackathon 2025
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/HORCRUX-75B82A?style=for-the-badge" alt="Horcrux Hackathon"/>
+<img src="https://img.shields.io/badge/HORCRUX-WINNER-75B82A?style=for-the-badge" alt="Horcrux Hackathon"/>
 
 ### Winner
 
@@ -262,7 +258,7 @@ Horcrux Hackathon, PES University
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/INFOTHON-111111?style=for-the-badge" alt="Infothon"/>
+<img src="https://img.shields.io/badge/INFOTHON-IDEATHON-111111?style=for-the-badge" alt="Infothon"/>
 
 ### Participant
 
@@ -319,9 +315,11 @@ Infothon & Ideathon
 <a href="mailto:hruthik2005taravi@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/hruthik-k-taravi-07a23a288">
 <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://github.com/Hruthik2005">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
